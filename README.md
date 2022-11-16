@@ -6,7 +6,8 @@
 
 # Changelog
 
-## v1.0.1
+## v1.0.1 
+###### signing off at 16 Nov 2022 - 10.35 pm
 
 ### Added or Changed
 - Added bot condition 1 (easy apply -> submit application)
@@ -18,4 +19,4 @@
 
 ### Removed
 
-- 
+-
